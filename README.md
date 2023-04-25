@@ -9,9 +9,13 @@ The purpose of this assignment is to help you go over the previous taught materi
 My requirements.txt contains libraries:
 
 certifi==2020.12.5
+
 charset-normalizer==3.0.1 
+
 contourpy==1.0.7
+
 cycler==0.11.0
+
 docopt==0.6.2
 fonttools==4.39.3
 idna==3.4
