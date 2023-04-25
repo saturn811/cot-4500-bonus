@@ -66,6 +66,7 @@ zipp==3.15.0
 
 Command Line Procedures(type in command line):
 
-cd Downloads
-python3.9 assignment_3.py
+1. cd Downloads
+
+2. python3.9 bonus_assignment.py
 
